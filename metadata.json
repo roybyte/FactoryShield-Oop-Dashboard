@@ -1,0 +1,6 @@
+{
+  "name": "FactoryShield Ops Dashboard",
+  "description": "Industrial cybersecurity and OT operations dashboard that maps technical cyber threats to production lines, machines, and responsible shop-floor personnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
